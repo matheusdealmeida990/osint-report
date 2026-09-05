@@ -1,7 +1,7 @@
 # OSINT Report — Google Dorks
 
 ## Date
-09/02/2026
+02/09/2026
 
 ## Tool
 Google (advanced search / dorks)
